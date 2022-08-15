@@ -10,6 +10,10 @@ Hemos aprendido que en la programación muchas veces necesitamos que nuestro có
 
 Es hora de poner en práctica nuestros aprendizajes. 
 
+### Funcionalidad del Código
+
+En éste lab crearás un efecto de gravedad sobre `bird`, de tal manera que se mueva 2 pixeles hacia abajo cada 2 segundos y parezca que `bird` esta cayendo al suelo.
+
 ## Instrucciones
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
